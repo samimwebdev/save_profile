@@ -1,0 +1,37 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 62.5%;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 2rem;
+}
+
+.profile__section {
+  border: 2px solid #333;
+  font-size: 1.5rem;
+  padding: 2rem;
+}
+
+form {
+  font-size: 1.2rem;
+}
+.profileForm__section label {
+  width: 5rem;
+  margin-right: 2rem;
+}
+
+.profileForm__section {
+  margin: 1rem;
+}
+
+.profileForm__btn {
+  display: block;
+  width: 10rem;
+  padding: 1rem;
+}
